@@ -1,0 +1,6 @@
+[submodule "submodule/mindmaps"]
+	path = submodule/mindmaps
+	url = git@github.com:drichard/mindmaps.git
+[submodule "submodule/jsoneditoronline"]
+	path = submodule/jsoneditoronline
+	url = git@github.com:josdejong/jsoneditoronline.git
